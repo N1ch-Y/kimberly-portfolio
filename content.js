@@ -4566,7 +4566,7 @@ window.PORTFOLIO = {
       "name": "AI 视频 · 影像实验",
       "en": "AI MOTION STUDIES",
       "kind": "AI 视频作品",
-      "description": "四段动态影像，让想象在屏幕里发生。",
+      "description": "五段动态影像，让想象在屏幕里发生。",
       "category": [
         "AI 视频",
         "动态影像"
@@ -4605,6 +4605,13 @@ window.PORTFOLIO = {
           "sourceName": "极夜的最后一颗星种_30秒成片.mp4",
           "poster": "assets/ai-poster-4.jpg",
           "duration": "30 秒"
+        },
+        {
+          "src": "assets/ai-film-05.mp4",
+          "title": "露台上的落星",
+          "sourceName": "露台上的落星_30秒合辑.mp4",
+          "duration": "30 秒",
+          "poster": "assets/ai-poster-5.jpg"
         }
       ]
     }
