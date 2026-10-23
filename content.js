@@ -4580,21 +4580,21 @@ window.PORTFOLIO = {
       "videos": [
         {
           "src": "assets/ai-film-01.mp4",
-          "title": "AI 影像 01",
+          "title": "云朵的甜蜜",
           "sourceName": "微信视频2026-10-22_210524_730.mp4",
           "poster": "assets/ai-poster-1.jpg",
           "duration": "30 秒"
         },
         {
           "src": "assets/ai-film-02.mp4",
-          "title": "AI 影像 02",
+          "title": "光芒宣传片",
           "sourceName": "微信视频2026-10-22_210529_762.mp4",
           "poster": "assets/ai-poster-2.jpg",
           "duration": "15 秒"
         },
         {
           "src": "assets/ai-film-03.mp4",
-          "title": "AI 影像 03",
+          "title": "咖享社宣传片",
           "sourceName": "微信视频2026-10-22_210500_606.mp4",
           "poster": "assets/ai-poster-3.jpg",
           "duration": "10 秒"
