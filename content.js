@@ -4560,6 +4560,53 @@ window.PORTFOLIO = {
         "alt": "Éclat 品牌字标与 Boundless Style, A New Radiance 标语"
       },
       "entryEffect": "lanyard"
+    },
+    {
+      "id": "ai-video",
+      "name": "AI 视频 · 影像实验",
+      "en": "AI MOTION STUDIES",
+      "kind": "AI 视频作品",
+      "description": "四段动态影像，让想象在屏幕里发生。",
+      "category": [
+        "AI 视频",
+        "动态影像"
+      ],
+      "cover": "assets/ai-ipad.png",
+      "coverAlt": "手持 iPad 中的 AI 影像展览",
+      "coverFit": "contain",
+      "surface": "#eeeeec",
+      "accent": "#202020",
+      "detailImages": [],
+      "videos": [
+        {
+          "src": "assets/ai-film-01.mp4",
+          "title": "AI 影像 01",
+          "sourceName": "微信视频2026-10-22_210524_730.mp4",
+          "poster": "assets/ai-poster-1.jpg",
+          "duration": "30 秒"
+        },
+        {
+          "src": "assets/ai-film-02.mp4",
+          "title": "AI 影像 02",
+          "sourceName": "微信视频2026-10-22_210529_762.mp4",
+          "poster": "assets/ai-poster-2.jpg",
+          "duration": "15 秒"
+        },
+        {
+          "src": "assets/ai-film-03.mp4",
+          "title": "AI 影像 03",
+          "sourceName": "微信视频2026-10-22_210500_606.mp4",
+          "poster": "assets/ai-poster-3.jpg",
+          "duration": "10 秒"
+        },
+        {
+          "src": "assets/ai-film-04.mp4",
+          "title": "极夜的最后一颗星种",
+          "sourceName": "极夜的最后一颗星种_30秒成片.mp4",
+          "poster": "assets/ai-poster-4.jpg",
+          "duration": "30 秒"
+        }
+      ]
     }
   ],
   "mark": "assets/kimberly-folded-k.png"
